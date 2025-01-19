@@ -1,0 +1,17 @@
+h1, h2, p, ol, ul {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(46, 24, 126);
+}
+
+a {
+    color: rgb(0, 8, 122);
+}
+
+body {
+    background-color: rgb(255, 250, 219);
+}
+
+img {
+    padding: 10px;
+    background-color: rgb(255, 191, 16);
+}
