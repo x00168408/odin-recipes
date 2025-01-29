@@ -3,6 +3,11 @@ h1, h2, p, ol, ul {
     color: rgb(46, 24, 126);
 }
 
+h1 {
+    display: block;
+    text-align: center;
+}
+
 a {
     color: rgb(0, 8, 122);
 }
@@ -14,4 +19,6 @@ body {
 img {
     padding: 10px;
     background-color: rgb(255, 191, 16);
+    display: block;
+    margin: 0 auto;
 }
